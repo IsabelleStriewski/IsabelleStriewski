@@ -4,6 +4,7 @@
 
 ### ISABELLE STRIEWSKI
 **Junior Developer | IT Security Trainee**
+
 *11 Years Film & TV Experience (Costume Dept)*
 
 <br/>
