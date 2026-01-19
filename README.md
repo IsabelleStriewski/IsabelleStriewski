@@ -33,7 +33,7 @@ Currently teaching myself Python to bridge the gap between theory and real-world
 
 **GOAL**
 **Internship**
-Looking for an internship in App Development or Security starting 09.09.2026.
+Looking for an internship in Software Development or Security starting 09.09.2026.
 
 ---
 
