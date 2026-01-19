@@ -3,7 +3,7 @@
 # S C E N E &nbsp; C H A N G E
 
 ### ISABELLE STRIEWSKI
-**Junior Developer | IT Security Trainee**
+**Software Development Trainee | IT Security Enthusiast**
 
 *11 Years Film & TV Experience (Costume Dept)*
 
