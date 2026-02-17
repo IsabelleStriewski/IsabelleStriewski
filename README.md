@@ -24,7 +24,7 @@
 Expertise: High-pressure environments, team coordination, extreme attention to detail.
 
 **CURRENTLY**
-**IT Retraining (Month 7/24)**
+**IT Retraining (Month 8/24)**
 Focus: Programming Fundamentals, Network Technology, Linux & Database Design.
 
 **SELF-STUDY & INTERESTS**
