@@ -41,7 +41,7 @@ Mein Ziel: Skripte automatisieren, Netzwerke analysieren und Schwachstellen vers
 
 **Netzwerk:** TCP/IP, DNS, OSI-Modell
 
-**Security & Forensik:** Wireshark (Paketanalyse)
+**Security & Forensik:** Wireshark (Paketanalyse), TryHackMe (Lernpfade: SOC & Cyber Security), Kryptographie (Verschlüsselungs-Grundlagen)
 
 <br>
 
