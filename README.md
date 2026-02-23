@@ -71,6 +71,14 @@ Mein Fokus liegt exakt auf dieser Schnittstelle zwischen Softwareentwicklung und
 
 <br>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/adf0f2b6-2451-413d-8a9a-8568d6682667/public_url">
+    <img src="https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" height="100">
+  </a>
+</p>
+
+ <br>
+
 ---
 
 <br>
