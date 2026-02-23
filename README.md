@@ -25,13 +25,21 @@ Mein Ziel: Skripte automatisieren, Netzwerke analysieren und Schwachstellen vers
 
 <br>
 
+**Zertifizierung und Ziele**
+
+**LPI** Linux Essentials zertifiziert
+
+**PCEP (Python)** aktueller Fokus und in Vorbereitung (voraussichtlich im März 2026)
+
+**ISC2 Candidate** Einstieg Cybersecurity - registriert (Februar 2026)
+
+<br>
+
 **Coding & Datenbanken**
 
 **Python:** Skripting, Automatisierung, Objektorientierte Programmierung (OOP)
 
 **SQL:** CRUD-Operationen, Joins, Modellierung relationaler Datenbanken
-
-**Zertifizierung:** Vorbereitung auf PCEP (Python)
 
 <br>
 
@@ -54,8 +62,10 @@ Mein Ziel: Skripte automatisieren, Netzwerke analysieren und Schwachstellen vers
 <br>
 
 Aktive Weiterbildung über den Lehrplan hinaus: 
-Ich mache gerade meine allerersten Schritte auf **TryHackMe**, 
-um ein praktisches Gefühl für Cyber Security zu bekommen. 
+Ich mache gerade meine allerersten Schritte auf **TryHackMe**
+und bin als **ISC2 Candidate** im Rahmen der 
+"One Million Certified in Cybersecurity"-Initiative registriert,
+um mir ein solides Fundament für Cyber Security aufzubauen.
 Parallel vertiefe ich meine Python-Kenntnisse, um in Zukunft Security-Prozesse zu automatisieren. 
 Mein Fokus liegt exakt auf dieser Schnittstelle zwischen Softwareentwicklung und investigativer Sicherheit.
 
