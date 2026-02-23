@@ -6,7 +6,7 @@
 
 ### ISABELLE STRIEWSKI
 
-**Angehende Fachinformatikerin (Anwendungsentwicklung) | Security & Forensik Enthusiast**
+**Angehende Fachinformatikerin Anwendungsentwicklung | Cyber Security & Forensik Enthusiast**
 
 <br>
 
