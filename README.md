@@ -102,15 +102,6 @@ Was das mit IT-Security zu tun hat? Eine Menge:
 
 <br>
 
-### Mission: Praktikum (ab 09.09.2026)
-
-<br>
-
-Ich suche ein Praktikumsumfeld für meine Umschulung, in dem ich analytisch arbeiten kann. 
-Ich möchte aktiv Code schreiben, Datenbanken strukturieren und Security-Aspekte in der Praxis anwenden. 
-
-<br>
-
 **Kontakt & Vernetzung:** [Mein LinkedIn-Profil](https://www.linkedin.com/in/isabellestriewski)
 
 <br>
