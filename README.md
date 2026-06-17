@@ -29,7 +29,7 @@ Mein Ziel: Skripte automatisieren, Netzwerke analysieren und Schwachstellen vers
 
 **LPI** Linux Essentials zertifiziert
 
-**PCEP (Python)** aktueller Fokus und in Vorbereitung (voraussichtlich im März 2026)
+**PCEP (Python)** aktueller Fokus und in Vorbereitung (voraussichtlich im August 2026)
 
 **ISC2 Candidate** Einstieg Cybersecurity - registriert (Februar 2026)
 
